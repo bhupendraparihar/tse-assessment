@@ -8,12 +8,12 @@
 
     function createAboutMe(name, linkedin, aboutMe) {
 
-        return `<h1>${name}</h1>
-            <a href="${linkedin}">${linkedin}</a>
-            <section id="aboutme">
-                <h1>About Me</h1>
-                <p data-content="aboutme">${aboutMe}</p>
-            </section>`;
+        return `<img src='pic.jpg' class='image'><h1>${name}</h1>
+                <a href="${linkedin}">${linkedin}</a>
+                <section id="aboutme">
+                    <h1>About Me</h1>
+                    <p data-content="aboutme">${aboutMe}</p>
+                </section>`;
     }
 
     function createEducation(education) {
@@ -94,6 +94,7 @@
     }
 
     const section = document.createElement('section');
+    section.id = 'container';
     section.innerHTML = createAboutMe(resumeData.name, resumeData.linkedin, resumeData.aboutme)
         + createEducation(resumeData.education)
         + createProjects(resumeData.personalProjects)
