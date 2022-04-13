@@ -284,14 +284,14 @@
         }
     ],
     "personalProjects": [{
-            "title": "Final Year Project",
-            "description": "This is my own technical blog, which I am maintaing and updating regularly. Most of the posts are about Javascript world.",
-            "link": "http://www.jforjs.com"
+            "title": "School Management System",
+            "description": "A school management software is a system which is designed to manage & simplify the day-to-day administrative & non-administrative tasks of a school. School management software enables schools to monitor daily activities like daily attendance, timetable management, etc. from a single centralized platform",
+            "link": "https://www.classter.com/school-management-system/"
         },
         {
-            "title": "Third Year Project/Mini Project",
-            "description": "Solving a easy level 9x9 sodoku in the most efficient way.",
-            "link": "https://github.com/bhupendraparihar/SudokuSolver"
+            "title": "Library Management System",
+            "description": "A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.",
+            "link": "https://www.skoolbeep.com/blog/library-management-system/"
         }
     ],
     "achievements": [
