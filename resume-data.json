@@ -1,5 +1,5 @@
 {
-    "name": "John Doe",
+    "name": "Bhupendra Parihar",
     "title": "Frontend Developer - Lead Engineer",
     "email": "bhupendrasparihar@gmail.com",
     "phoneNumber": "+91 9008008084",
@@ -292,20 +292,10 @@
             "title": "Sudoku Solver",
             "description": "Solving a easy level 9x9 sodoku in the most efficient way.",
             "link": "https://github.com/bhupendraparihar/SudokuSolver"
-        },
-        {
-            "title": "Snake Game",
-            "description": "A snake game written in javascript",
-            "link": "https://github.com/bhupendraparihar/SnakeGame"
-        },
-        {
-            "title": "Resume",
-            "description": "This project is to create my own resume in angular and react and host it as a github page",
-            "link": "http://bhupendraparihar.github.io"
         }
     ],
     "achievements": [
-        "Achievemtns 1",
-        "Achievemtns 2"
+        "ALL ROUNDER certificate from K V NTPC, 2005",
+        "Founder of MVN Primary School"
     ]
 }
